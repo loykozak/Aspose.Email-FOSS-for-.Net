@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <PackageId>Aspose.Email.Foss</PackageId>
+    <Version>0.1.0</Version>
+    <Authors>Aspose.Email FOSS Contributors</Authors>
+    <Description>Dependency-free C# toolkit for CFB, MSG, and EML workflows generated and implemented from the repository knowledgebase.</Description>
+    <PackageTags>aspose;email;msg;cfb;eml;mapi</PackageTags>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/aspose-email-foss/Aspose.Email-FOSS-for-.NET</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <PublishRepositoryUrl>true</PublishRepositoryUrl>
+    <IncludeSymbols>true</IncludeSymbols>
+    <SymbolPackageFormat>snupkg</SymbolPackageFormat>
+    <AssemblyName>Aspose.Email.Foss</AssemblyName>
+    <RootNamespace>Aspose.Email.Foss</RootNamespace>
+    <IsPackable>true</IsPackable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\..\README.md" Pack="true" PackagePath="\" Link="README.md" />
+  </ItemGroup>
+</Project>
