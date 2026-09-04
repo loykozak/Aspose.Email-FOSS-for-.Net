@@ -318,3 +318,5 @@ dotnet run --project examples/create_msg_and_eml/create_msg_and_eml.csproj
 This project is licensed under the [MIT License](LICENSE). The MIT License permits use, copying,
 modification, distribution, sublicensing, and commercial use, provided its copyright and
 permission notice are retained. The software is provided without warranty.
+
+CLA signing notification test
